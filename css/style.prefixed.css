@@ -37,7 +37,7 @@ form {
     width: 100%;
 }
 
-.contactItem {
+.ContactItem {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
